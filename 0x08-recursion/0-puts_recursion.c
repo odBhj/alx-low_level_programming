@@ -3,11 +3,9 @@
 /**
  * _puts_recursion - Recursively prints each character in a string
  *
- * Prints characters until null terminator is reached, then prints a newline.
+ * @s: The string to be printed
  *
- * @param s: The string to be printed
- *
- * @Author: Mohammed Bahaj
+ * Return:void (Always)
  */
 void _puts_recursion(char *s)
 {
