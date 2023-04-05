@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * _puts_recursion - Prints a string recursively
+ * _puts_recursion - Recursively prints each character in a string
  *
- * Recursively prints the characters in the input string until the null terminator
- * character is reached, and then prints a newline character.
+ * Prints characters until null terminator is reached, then prints a newline.
  *
  * @param s: The string to be printed
  *
