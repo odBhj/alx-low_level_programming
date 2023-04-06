@@ -12,7 +12,7 @@ return (0);
 }
 /**
 * pal_checker - checks if s is a palindrome
-* @s: string base 
+* @s: string base
 * @i: left index
 * @j: rigth index
 * Return: 1 if s is palindrome, 0 otherwise.
